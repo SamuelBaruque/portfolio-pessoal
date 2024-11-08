@@ -1,1 +1,1 @@
-# portfolio-pessoal
+# portfolio-pessoal utilizando HTML, CSS e JavaScript
